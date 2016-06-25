@@ -7,7 +7,7 @@ http://store.digilentinc.com/chipkit-basic-i-o-shield-input-output-expansion-add
 
 ## Video demonstration
 
-[![chipKIT Music Notation video](https://raw.jlegas/chipKIT-Music-Notation/master/chipKIT_Music_Notation.jpg)](https://www.dropbox.com/sc/r01tqhs3s4528rn/AAChtRaw5NcHBm0JYwAB0XeGa)
+[![chipKIT Music Notation video](https://github.com/jlegas/chipKIT-Music-Notation/raw/master/chipKIT_Music_Notation.jpg)](https://www.dropbox.com/sc/r01tqhs3s4528rn/AAChtRaw5NcHBm0JYwAB0XeGa)
 
 ## Motivation
 
